@@ -1,0 +1,2 @@
+# VOID-API-NOTE
+メモ的な
